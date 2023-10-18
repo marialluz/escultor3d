@@ -3,7 +3,8 @@
 
 ## Introdução
 
-Bem-vindo ao projeto de Escultura 3D! Este projeto visa criar uma ferramenta em C++ para realizar esculturas em blocos representados por matrizes digitais, semelhante à ideia usada no jogo Minecraft. Com esta ferramenta, os usuários podem criar esculturas tridimensionais personalizadas e apreciá-las por meio de softwares de visualização.
+Este projeto de Escultura 3D é um trabalho da disciplina de Programação Avançada do curso de Engenharia da Computação da Universidade Federal do Rio Grande do Norte (UFRN), realizado por Alice Maria Fonseca Victorino Freire e Maria Eduarda Lima da Luz. O objetivo deste projeto é criar uma ferramenta em C++ para realizar esculturas em blocos representados por matrizes digitais, semelhante à ideia usada no jogo Minecraft. Com esta ferramenta, os usuários podem criar esculturas tridimensionais personalizadas e apreciá-las por meio de softwares de visualização.
+
 
 ## Tipos de Formas Geométricas
 
